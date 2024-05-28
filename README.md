@@ -1,2 +1,2 @@
 # Cadastro-simples
-cadastro simples em php
+Programa que cadastro um usuario,feito em php, com banco de dados mysql.
