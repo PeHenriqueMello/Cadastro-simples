@@ -1,6 +1,6 @@
 <?php
 
-//formulario de cadastro, com conexão ao banco de dados.
+//formulario de cadastro.
 
 
 if(isset($_POST['submit'])){
